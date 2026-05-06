@@ -38,3 +38,4 @@ eval "$(pyenv init -)"
 
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk
 export PATH=$JAVA_HOME/bin:$PATH:$PATH
+export PATH="$HOME/.local/bin:$PATH"
