@@ -64,7 +64,7 @@ When applying object orientation, prefer:
 
 ## Formatting Preferences
 
-- Use 2 tabs for indentation
+- Use 8 spaces, display 4 tabs which visually are 2 spaces each, for indentation
 
 ---
 
